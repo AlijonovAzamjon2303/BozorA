@@ -1,13 +1,13 @@
-# Classes - Product, Company, Basket
+# Classes - Pupil, Student, PDPManager
 
-# Product
-# attribute - name, price, quantity, Company
+# Pupil
+# attribute - name, fam, yil, ... || kamida 4 ta
 # methods - info()
 
-# Company
-# attribute - name, yil
+# Student
+# attribute - name, yil, kursi, fakultet ... || 5 ta
 # methods - info()
 
-# Basket
-# attribute - products[]
-# methods - add(), remove(), view(), total_price()
+# PDPManager
+# attribute - students{}, pupils{}
+# methods - add_student(), add_pupil(), remove_st(), remove_pu() ... || 6 ta
